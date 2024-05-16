@@ -1,6 +1,6 @@
 Detecting diabetes using machine learning models involves leveraging data related to various factors such as glucose levels, blood pressure, body mass index (BMI), age, and other relevant medical indicators. Here's a general outline of how you can approach diabetes detection using ML models:
 
-Data Collection: Gather a dataset containing information about individuals, including those with and without diabetes. This dataset should include features such as:
+Data Collection: Gather a dataset containing information about individuals, including those with and without diabetes. The dataset include features such as:
 
 Blood glucose levels
 Blood pressure
